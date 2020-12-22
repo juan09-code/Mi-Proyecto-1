@@ -5,7 +5,7 @@
 
 def main():
     nombre= input("Cual es tu nombre? ") 
-    print("Hola", nombre, "Bienvenido a Git!")
+    print("Hola", nombre, "Bienvenido a Git!") #Mensaje que imprime un hola en pantalla
 
 
 if __name__ == "__main__":
